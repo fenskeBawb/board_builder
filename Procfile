@@ -1,1 +1,1 @@
-web: python3 board_builder/manage.py runserver
+web: python3 board_builder/manage.py runserver $PORT
